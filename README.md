@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shyam Kathiriya
 =======================================================================================================================================
 
-ReactJS Developer
+MERN Stack Developer
 -----------------
 
 I'm Shyam, a passionate and experienced web developer with a focus on frontend technologies. With 1.5 years of professional experience, I have honed my skills in HTML, CSS, JavaScript, TypeScript, React.js and Next.js.
 
 * 🌍  I'm based in Ahmedabad, Gujarat
 * ✉️  You can contact me at [shyamkathiriya024@gmail.com](mailto:shyamkathiriya024@gmail.com)
-* 🚀  I'm currently working on [Saeculum Solutions Pvt Ltd.](http://saeculumsolutions.com/)
+* 🚀  I'm currently working on [Compatible Solutions](https://compatiblesolutions.in/)
 * 🤝  I'm open to collaborating on Web development project which are made with Next.js
 
 ### Skills
